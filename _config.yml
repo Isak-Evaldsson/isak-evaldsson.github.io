@@ -1,5 +1,5 @@
 # Jekyll configuration
 name: Isak Evaldsson, personal website
-url: "http://lkildetoft.github.io"
+url: "https://isak-evaldsson.github.io/"
 markdown: kramdown
 theme: jekyll-theme-minimal
