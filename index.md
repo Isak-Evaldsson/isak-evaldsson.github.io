@@ -1,5 +1,6 @@
 ---
 layout: default
+tilte: Isaks website
 ---
 
 ## About me
