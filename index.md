@@ -1,6 +1,6 @@
 ---
 layout: default
-title: default
+title: Isak's website
 ---
 
 ## About me
