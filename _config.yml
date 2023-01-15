@@ -3,3 +3,7 @@ name: Isak Evaldsson, personal website
 url: "https://isak-evaldsson.github.io/"
 markdown: kramdown
 theme: jekyll-theme-cayman
+
+# Cayman config
+title: Isak Evaldsson
+description: My personal website
