@@ -2,4 +2,4 @@
 name: Isak Evaldsson, personal website
 url: "https://isak-evaldsson.github.io/"
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
