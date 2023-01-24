@@ -6,7 +6,7 @@ title: Isak Evaldsson
 Computer Science and Engineering stundent, studying at LTH in Lund, Sweden.
 My primary intresest are embedded systems, computer architecture and compilers.
 
-## Skill
+## Skills
 * Primary programing languges: C/C++, Go, Python, Java
 * Multi-core programing, in particular pthreads
 * Web development using React and MySQL
@@ -14,9 +14,13 @@ My primary intresest are embedded systems, computer architecture and compilers.
 * Fundamental RTL/VLSI design
 
 ## Experience
-* Summer worker at Volvo Cars 2021. Worked with Android automotive as a part of the car infotainment system.</li>
-* Summer worker at Axis Firmware platfrom 2023
-* Teaching Assitant at LTH Autum 2023, EDAN26 - Multicore Programing and EDAG01 - Efficient C
+* Master thesis student at Sony Nordic, ongoing
+* Teaching Assitant at LTH 2022 - 2023:
+  *  EDAN26 - Multicore Programing
+  *  EDAG01 - Efficient C
+  *  EDAN75 - Optimising compilers
+* Summer worker at Axis Firmware platfrom 2022
+* Summer worker at Volvo Cars 2021. Worked with Android automotive as a part of the car infotainment system.
 
 ## Major projects
 * Built the ticket system for Lundakarnevalen 2022 from skratch. Projet included both building
