@@ -1,8 +1,3 @@
----
-layout: default
-title: Isak's website
----
-
 ## About me
 Computer Science and Engineering stundent, studying at LTH in Lund, Sweden.
 My primary intresest are embedded systems, computer architecture and compilers.
