@@ -4,6 +4,11 @@ url: "https://isak-evaldsson.github.io/"
 markdown: kramdown
 theme: jekyll-theme-cayman
 
+# Mastodon instances
+mastodon:
+- username: isakevaldsson
+  instance: mastodon.social
+
 # Cayman config
 title: Isak Evaldsson
 description: My personal website
